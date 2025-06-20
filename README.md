@@ -7,7 +7,6 @@ This repository demonstrates various agent orchestration patterns using **Micros
 Semantic Kernel supports several orchestration patterns, each designed for different collaboration scenarios. These patterns are available as part of the framework and can be easily extended or customized to meet specific requirements.
 
 ## 📁 Project Structure
-
 ```
 Agent-Orchestration-Patterns/
 ├── poc/                           # Proof of Concept implementations
